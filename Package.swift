@@ -17,7 +17,7 @@ let package = Package(
       name: "RevcontentSDK",
       url:
         "https://github.com/RevContent/revcontent-ios-sdk/releases/download/0.1.0/RevcontentSDK.xcframework.zip",
-      checksum: "5cf9902f5fa897b27c3b09da674e0d32d8921ea4b8e966fc3fc1c693027a6201"
+      checksum: "fae59eb8f04d065c6eff83c84747cdc5a588704e35b33e78298a060317ca743a"
     )
   ]
 )
