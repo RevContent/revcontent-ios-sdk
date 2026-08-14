@@ -16,8 +16,8 @@ let package = Package(
     .binaryTarget(
       name: "RevcontentSDK",
       url:
-        "https://github.com/RevContent/revcontent-ios-sdk/releases/download/0.2.0/RevcontentSDK.xcframework.zip",
-      checksum: "c6852f1e07e8550486809c8e6af6659f943e731ed6b395b3b349b4599479dc7d"
+        "https://github.com/RevContent/revcontent-ios-sdk/releases/download/0.3.0/RevcontentSDK.xcframework.zip",
+      checksum: "63648b8d6266ff1a21551860a8583dff8e1016a37afe3af21564d4b31cbe7bea"
     )
   ]
 )
